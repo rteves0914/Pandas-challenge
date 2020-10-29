@@ -1,0 +1,5 @@
+After completing the PySchools challenge, there were some obvious trends in the data, especially when comparing the math scores with the reading scores. 
+
+First off, just looking at the Data Frame that displays all 15 schools and the average reading and math scores at each school, it is easy to see right away that at every school, the reading scores were higher than the math scores. There were some schools that even had average math scores below 80! I think this shows that the students in this school area are better equipped to understanding math than reading. 
+
+Secondly, when I grouped the data by type, it became clear that charter schools had higher averages in both math and reading than the traditional district schools. I believe this is because there are less restrictions at the private charter school level than in public schools.
